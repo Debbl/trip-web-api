@@ -1,0 +1,906 @@
+{
+    "errcode": 0,
+    "errmsg": null,
+    "data": [
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 200,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥29",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 48317083,
+                "houseName": "「崎观浅暖」广州白云机场旁广州翼文旅小镇日式风景房/向景区/地铁高增D出口/宫崎公寓",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_210224/thumb/202102241034085207_360_480.png",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 171,
+                "location": "广州·白云区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 361,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥64",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 52629640,
+                "houseName": "广州塔江景房｜原木风 巨幕投影 网红夕阳灯 ｜珠江新城 海心沙 海心桥 琶洲会展馆",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_211101/thumb/202111010102176638_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 297,
+                "location": "广州·海珠区"
+            }
+        },
+        {
+            "discoveryContentType": 3,
+            "data": {
+                "iconTag": null,
+                "productPrice": 162,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥57",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 13295815,
+                "houseName": "广州南站馨园小筑限时特价大床房（南站专车免费接送-机打发票）",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_211111/thumb/202111110029374547_700_467.jpg",
+                    "width": 700,
+                    "height": 467
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 105,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 3,
+            "data": {
+                "iconTag": null,
+                "productPrice": 253,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥46",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 52615393,
+                "houseName": "树根书屋时尚简约公寓，落地窗，单间户型，高品质家具，共享私家花香大院。",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_211028/thumb/202110281606475489_700_467.jpg",
+                    "width": 700,
+                    "height": 467
+                },
+                "commentScore": "4.7",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.7分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 207,
+                "location": "广州·海珠区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 313,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥57",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 52255153,
+                "houseName": "越秀城景新中式双床房/团一大地铁站/北京路/珠江夜游/海珠广场/沙面/上下九/广州塔/",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_210918/thumb/202109181321569849_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "5.0",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居2床 4人 5.0分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 256,
+                "location": "广州·越秀区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 310,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥70",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 53281663,
+                "houseName": "4K巨幕投影游戏机大床房一德路/北京路/孙逸仙医院/十三行/广医医院/中山二院/海珠广场/珠江边",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_211203/thumb/202112031055474902_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "5.0",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 5.0分",
+                "showHouseVideo": true,
+                "cityId": 45,
+                "finalPrice": 240,
+                "location": "广州·越秀区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 572,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥125",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 12460337,
+                "houseName": "简约宜家风&临近北京路天字码头海珠广场温",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_190525/thumb/201905251840218433_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.8",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居2床 4人 4.8分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 447,
+                "location": "广州·越秀区"
+            }
+        },
+        {
+            "discoveryContentType": 3,
+            "data": {
+                "iconTag": null,
+                "productPrice": 205,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥38",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 49906519,
+                "houseName": "近商圈近医院温馨私享Loft复式",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/qualifiedpics/day_210822/thumb/202108222256567278_700_467.jpg",
+                    "width": 700,
+                    "height": 467
+                },
+                "commentScore": "4.4",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.4分",
+                "showHouseVideo": true,
+                "cityId": 45,
+                "finalPrice": 167,
+                "location": "广州·天河区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 333,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥44",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 5270946,
+                "houseName": "浪漫商务房",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_180810/thumb/201808101923494689_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "5.0",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 5.0分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 289,
+                "location": "广州·天河区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 440,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥170",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 16187004,
+                "houseName": "广州南站/可洗衣做饭/长隆十分钟/大学城/轻奢两居",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/qualifiedpics/day_191124/thumb/201911241709186360_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居2床 4人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 270,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 782,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥144",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 51489970,
+                "houseName": "广州长隆景区•家庭滑梯波波池投影两居室亲子房•贰",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/qualifiedpics/day_210802/thumb/202108021015163574_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.8",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居2床 4人 4.8分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 638,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 864,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥266",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 40396343,
+                "houseName": "全屋消毒长隆广州塔投影复式2房·光影工坊/双地铁口·近欢乐世界·大马戏·动物园·水上乐园·广州南高铁",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_200910/thumb/202009101623434871_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居4床 6人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 598,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 335,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥95",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 48383986,
+                "houseName": "【5号停机坪】百信广场/万达广场复式两居&岗贝路一条街，自助入住独立带锁两居",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/apisunit/day_210310/thumb/202103101441598817_360_480.jpeg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居2床 4人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 240,
+                "location": "广州·白云区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 652,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥118",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 18230801,
+                "houseName": "广州长隆景区•轻奢风投影与55寸电视房",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_200402/thumb/202004021156063321_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居2床 4人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 534,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 3,
+            "data": {
+                "iconTag": null,
+                "productPrice": 105,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥20",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 45352717,
+                "houseName": "消毒/广州南站专车接站  One Day设计甄选大床房ཧ",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_210125/thumb/202101251304582768_700_467.jpg",
+                    "width": 700,
+                    "height": 467
+                },
+                "commentScore": "4.7",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.7分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 85,
+                "location": "广州·番禺区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 222,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥42",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 45251086,
+                "houseName": "[徒者-短租便宜] 上下九商圈 | 北京路 | 陈家祠地铁口 | 永庆坊 |  投影会员",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/qualifiedpics/day_200908/thumb/202009081833523789_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.7",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.7分",
+                "showHouseVideo": true,
+                "cityId": 45,
+                "finalPrice": 180,
+                "location": "广州·荔湾区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 676,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥180",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 51924760,
+                "houseName": "【北邻江景】超大落地窗珠江夜游江湾大桥全线江景近6号线近商圈温馨私享大客厅卧江入眠网红打卡软装",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_210826/thumb/202108262103051209_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 496,
+                "location": "广州·越秀区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 354,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥115",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 53122369,
+                "houseName": "Uno复式公寓(碧桂园从化)三床房&豪华配置|从化温泉旅游区|从化客运站|从化七中|广州城建职业学院",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_211117/thumb/202111172219466588_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.7",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·2居3床 4人 4.7分",
+                "showHouseVideo": true,
+                "cityId": 45,
+                "finalPrice": 239,
+                "location": "广州·从化区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 302,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥57",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 46605901,
+                "houseName": "越秀城景大床/团一大地铁站300米/近北京路海珠广场十三行/中山一院/省人民医院/（风格随机安排）",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_210116/thumb/202101161221117524_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": false,
+                "cityId": 45,
+                "finalPrice": 245,
+                "location": "广州·越秀区"
+            }
+        },
+        {
+            "discoveryContentType": 9,
+            "data": {
+                "iconTag": null,
+                "productPrice": 519,
+                "priceTipBadge": {
+                    "type": 0,
+                    "text": "已减¥141",
+                    "color": "#FFFFFF",
+                    "background": null,
+                    "border": null,
+                    "orderIndex": 0,
+                    "tip": null,
+                    "jumpUrl": null,
+                    "colorType": 0,
+                    "gradient": {
+                        "startColor": "#FF6666",
+                        "endColor": "FF9F9F"
+                    }
+                },
+                "houseAdvert": null,
+                "activityInfo": null,
+                "sellingPoint": null,
+                "guideText": null,
+                "referencePriceDesc": null,
+                "poiLocation": null,
+                "houseId": 13600021,
+                "houseName": "【卧江源】江景巨幕投影地台大床/6米临江如沉醉卧在梦中/近北京路/楼下酒吧街珠江夜游/东山口黄沙小蛮",
+                "houseTags": null,
+                "image": {
+                    "url": "https://pic.tujia.com/upload/landlordunit/day_191230/thumb/201912301101129285_360_480.jpg",
+                    "width": 360,
+                    "height": 480
+                },
+                "commentScore": "4.9",
+                "extendMap": {
+                    "logicBit": "2048"
+                },
+                "summaryText": "整套·1居1床 2人 4.9分",
+                "showHouseVideo": true,
+                "cityId": 45,
+                "finalPrice": 378,
+                "location": "广州·越秀区"
+            }
+        }
+    ]
+}
